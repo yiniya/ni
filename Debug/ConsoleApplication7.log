@@ -1,0 +1,102 @@
+﻿  ConsoleApplication7.cpp
+c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(7): error C2065: “Graphmtx”: 未声明的标识符
+c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(7): error C2146: 语法错误: 缺少“;”(在标识符“L”的前面)
+c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(7): error C3861: “L”: 找不到标识符
+c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(11): error C2065: “L”: 未声明的标识符
+c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(11): error C2228: “.insertVertex”的左边必须有类/结构/联合
+  c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(11): note: 类型是“unknown-type”
+c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(14): error C2065: “L”: 未声明的标识符
+c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(14): error C2228: “.insertEdge”的左边必须有类/结构/联合
+  c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(14): note: 类型是“unknown-type”
+c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(15): error C2065: “L”: 未声明的标识符
+c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(15): error C2228: “.insertEdge”的左边必须有类/结构/联合
+  c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(15): note: 类型是“unknown-type”
+c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(16): error C2065: “L”: 未声明的标识符
+c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(16): error C2228: “.insertEdge”的左边必须有类/结构/联合
+  c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(16): note: 类型是“unknown-type”
+c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(17): error C2065: “L”: 未声明的标识符
+c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(17): error C2228: “.insertEdge”的左边必须有类/结构/联合
+  c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(17): note: 类型是“unknown-type”
+c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(18): error C2065: “L”: 未声明的标识符
+c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(18): error C2228: “.insertEdge”的左边必须有类/结构/联合
+  c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(18): note: 类型是“unknown-type”
+c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(19): error C2065: “L”: 未声明的标识符
+c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(19): error C2228: “.insertEdge”的左边必须有类/结构/联合
+  c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(19): note: 类型是“unknown-type”
+c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(20): error C2065: “L”: 未声明的标识符
+c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(20): error C2228: “.insertEdge”的左边必须有类/结构/联合
+  c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(20): note: 类型是“unknown-type”
+c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(21): error C2065: “L”: 未声明的标识符
+c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(21): error C2228: “.insertEdge”的左边必须有类/结构/联合
+  c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(21): note: 类型是“unknown-type”
+c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(22): error C2065: “L”: 未声明的标识符
+c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(22): error C2228: “.insertEdge”的左边必须有类/结构/联合
+  c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(22): note: 类型是“unknown-type”
+c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(23): error C2065: “L”: 未声明的标识符
+c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(23): error C2228: “.insertEdge”的左边必须有类/结构/联合
+  c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(23): note: 类型是“unknown-type”
+c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(24): error C2065: “L”: 未声明的标识符
+c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(24): error C2228: “.insertEdge”的左边必须有类/结构/联合
+  c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(24): note: 类型是“unknown-type”
+c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(25): error C2065: “L”: 未声明的标识符
+c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(25): error C2228: “.insertEdge”的左边必须有类/结构/联合
+  c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(25): note: 类型是“unknown-type”
+c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(26): error C2065: “L”: 未声明的标识符
+c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(26): error C2228: “.insertEdge”的左边必须有类/结构/联合
+  c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(26): note: 类型是“unknown-type”
+c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(27): error C2065: “L”: 未声明的标识符
+c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(27): error C2228: “.insertEdge”的左边必须有类/结构/联合
+  c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(27): note: 类型是“unknown-type”
+c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(28): error C2065: “L”: 未声明的标识符
+c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(28): error C2228: “.insertEdge”的左边必须有类/结构/联合
+  c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(28): note: 类型是“unknown-type”
+c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(29): error C2065: “L”: 未声明的标识符
+c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(29): error C2228: “.insertEdge”的左边必须有类/结构/联合
+  c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(29): note: 类型是“unknown-type”
+c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(30): error C2065: “cout”: 未声明的标识符
+c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(30): error C2065: “L”: 未声明的标识符
+c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(30): error C2228: “.NumberOfVertices”的左边必须有类/结构/联合
+  c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(30): note: 类型是“unknown-type”
+c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(30): error C2065: “endl”: 未声明的标识符
+c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(32): error C2065: “cout”: 未声明的标识符
+c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(32): error C2065: “endl”: 未声明的标识符
+c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(33): error C2065: “cout”: 未声明的标识符
+c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(33): error C2065: “endl”: 未声明的标识符
+c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(34): error C2065: “cout”: 未声明的标识符
+c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(34): error C2065: “endl”: 未声明的标识符
+c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(35): error C2065: “cout”: 未声明的标识符
+c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(35): error C2065: “endl”: 未声明的标识符
+c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(36): error C2065: “cout”: 未声明的标识符
+c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(37): error C2065: “cin”: 未声明的标识符
+c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(39): error C2065: “cout”: 未声明的标识符
+c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(40): error C2065: “cin”: 未声明的标识符
+c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(41): error C2065: “L”: 未声明的标识符
+c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(41): error C2228: “.ShortestPath”的左边必须有类/结构/联合
+  c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(41): note: 类型是“unknown-type”
+c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(44): error C2065: “cout”: 未声明的标识符
+c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(45): error C2065: “cin”: 未声明的标识符
+c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(46): error C2065: “L”: 未声明的标识符
+c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(46): error C2228: “.removeVertex”的左边必须有类/结构/联合
+  c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(46): note: 类型是“unknown-type”
+c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(47): error C2065: “cout”: 未声明的标识符
+c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(47): error C2065: “L”: 未声明的标识符
+c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(47): error C2228: “.NumberOfVertices”的左边必须有类/结构/联合
+  c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(47): note: 类型是“unknown-type”
+c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(47): error C2065: “endl”: 未声明的标识符
+c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(48): error C2065: “cout”: 未声明的标识符
+c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(49): error C2065: “cin”: 未声明的标识符
+c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(50): error C2065: “L”: 未声明的标识符
+c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(50): error C2228: “.ShortestPath”的左边必须有类/结构/联合
+  c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(50): note: 类型是“unknown-type”
+c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(53): error C2065: “cout”: 未声明的标识符
+c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(54): error C2065: “cin”: 未声明的标识符
+c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(55): error C2065: “L”: 未声明的标识符
+c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(55): error C2228: “.removeEdge”的左边必须有类/结构/联合
+  c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(55): note: 类型是“unknown-type”
+c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(56): error C2065: “cout”: 未声明的标识符
+c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(57): error C2065: “cin”: 未声明的标识符
+c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(58): error C2065: “L”: 未声明的标识符
+c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(58): error C2228: “.ShortestPath”的左边必须有类/结构/联合
+  c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(58): note: 类型是“unknown-type”
+c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(61): error C3861: “exit”: 找不到标识符
+c:\users\fl5900u\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(64): error C3861: “system”: 找不到标识符
