@@ -35,4 +35,6 @@ public:
 	bool removeEdge(int v1, int v2);//ÔÚÍ¼ÖĞÉ¾³ı±ß(v1,v2)
 	void output();
 	void ShortestPath(Graphmtx& G, int v, int dist[], int path[]);
+	cout<<gggg
+
 };
