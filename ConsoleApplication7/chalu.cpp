@@ -2,8 +2,9 @@
 #include "chalu.h"
 
 
+
 chalu::chalu()
-{
+{cout<<"»Ææ¥æ­"<<endl;
 }
 
 
