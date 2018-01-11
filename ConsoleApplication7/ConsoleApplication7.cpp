@@ -29,6 +29,7 @@ int main() {
 	L.insertEdge(7, 8, 2);
 	cout << "当前路由器个数为:" << L.NumberOfVertices() << endl;
 	while (1) {
+		cout << "金凌宇" << end1;
 		cout << "1:生成某个路由器的路由表" << endl;
 		cout << "2:删除原拓扑中的一个路由器,重新生成路由表" << endl;
 		cout << "3:删除原拓扑中的一条边，重新生成路由表" << endl;
